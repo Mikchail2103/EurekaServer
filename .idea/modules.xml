@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../microServiceBye/microServiceBye.iml" filepath="$PROJECT_DIR$/../microServiceBye/microServiceBye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microServiceHello/microServiceHello.iml" filepath="$PROJECT_DIR$/../microServiceHello/microServiceHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server.iml" />
+    </modules>
+  </component>
+</project>
